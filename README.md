@@ -77,3 +77,27 @@ git clone https://github.com/AditiPatil31/HealthCare-Premium-Prediction-Project.
 cd HealthCare-Premium-Prediction-Project
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Input Form
+![Input Form](assets/personal_details.png)
+
+### 📊 Prediction Result
+![Prediction Result](assets/health_details.png)
+
+---
+
+## 👩‍💻 Author
+
+**Aditi Patil**
+
+🔗 GitHub: [AditiPatil31](https://github.com/AditiPatil31)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditi-patil31/)
+
+---
+
+⭐ If you like this project, consider giving it a star!
+
