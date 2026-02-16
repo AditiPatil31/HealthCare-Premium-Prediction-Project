@@ -66,7 +66,7 @@ Deployment: Streamlit Cloud
 
 ## 🌐 Live Demo
 
-🔗 https://your-streamlit-app-link.streamlit.app
+🔗 https://aditi-health-insurance-premium-prediction.streamlit.app/
 
 ---
 
