@@ -33,8 +33,8 @@ Dataset size: **50,000 records**
 
 After error analysis, customers were segmented based on age:
 
-- **Linear Regression** → General age group  
-- **XGB Regressor** → Young age group  
+- **Linear Regression** →  Young age group (<=25)
+- **XGB Regressor** →  General age group (>25)
 
 This segmentation improved predictive performance.
 
