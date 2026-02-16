@@ -80,24 +80,36 @@ streamlit run app.py
 
 ---
 
+---
+
 ## 📸 Application Screenshots
 
-### 🏠 Input Form
-![Input Form](assets/personal_details.png)
+<p align="center">
+  <img src="assets/personal_details.png" width="45%" />
+  <img src="assets/health_details.png" width="45%" />
+</p>
 
-### 📊 Prediction Result
-![Prediction Result](assets/health_details.png)
-
+---
 ---
 
 ## 👩‍💻 Author
 
-**Aditi Patil**
-
-🔗 GitHub: [AditiPatil31](https://github.com/AditiPatil31)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aditi-patil31/)
+<p align="center">
+  <b>Aditi Patil</b><br><br>
+  
+  <a href="https://github.com/AditiPatil31">
+    <img src="https://img.shields.io/badge/GitHub-AditiPatil31-181717?style=for-the-badge&logo=github">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/aditi-patil31/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
+
+⭐ If you like this project, consider giving it a star!
+
 
 ⭐ If you like this project, consider giving it a star!
 
