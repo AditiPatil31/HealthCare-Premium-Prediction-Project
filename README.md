@@ -57,10 +57,10 @@ This segmentation improved predictive performance.
 
 ## 🛠 Tech Stack
 
-Frontend: Streamlit  
-Backend: Python, Pandas, NumPy  
-ML Libraries: Scikit-learn, XGBoost  
-Deployment: Streamlit Cloud  
+**Frontend:** Streamlit  
+**Backend:** Python, Pandas, NumPy  
+**ML Libraries:** Scikit-learn, XGBoost  
+**Deployment:** Streamlit Cloud  
 
 ---
 
@@ -77,39 +77,3 @@ git clone https://github.com/AditiPatil31/HealthCare-Premium-Prediction-Project.
 cd HealthCare-Premium-Prediction-Project
 pip install -r requirements.txt
 streamlit run app.py
-
----
-
----
-
-## 📸 Application Screenshots
-
-<p align="center">
-  <img src="assets/personal_details.png" width="45%" />
-  <img src="assets/health_details.png" width="45%" />
-</p>
-
----
----
-
-## 👩‍💻 Author
-
-<p align="center">
-  <b>Aditi Patil</b><br><br>
-  
-  <a href="https://github.com/AditiPatil31">
-    <img src="https://img.shields.io/badge/GitHub-AditiPatil31-181717?style=for-the-badge&logo=github">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/aditi-patil31/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-⭐ If you like this project, consider giving it a star!
-
-
-⭐ If you like this project, consider giving it a star!
-
