@@ -73,7 +73,7 @@ Deployment: Streamlit Cloud
 ## 💻 Run Locally
 
 ```bash
-git clone https://github.com/your-username/HealthCare-Premium-Prediction-Project.git
+git clone https://github.com/AditiPatil31/HealthCare-Premium-Prediction-Project.git
 cd HealthCare-Premium-Prediction-Project
 pip install -r requirements.txt
 streamlit run app.py
