@@ -1,4 +1,4 @@
-# 🏥 Health Insurance Premium Prediction
+# 🏥 Healthcare Premium Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
